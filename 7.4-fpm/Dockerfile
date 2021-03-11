@@ -1,5 +1,5 @@
 FROM blauerberg/drupal-php:7.4-fpm
-MAINTAINER Yoshikazu Aoyama <yskz.aoyama@gmail.com>
+LABEL maintainer="Kyotaro Kon <k_kon@annai.co.jp>"
 
 ENV TIKA_VERSION 1.13
 
